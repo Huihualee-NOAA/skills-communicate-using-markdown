@@ -5,6 +5,21 @@
 
 Regular text
 
+**Bold test**
+
+*Italicized*
+
+***Bold/Italics***
+
+:bowtie:
+🥦
+
+```
+library(dplyr)
+newdata <- mtcars |> dplyr::filter(mpg > 20)
+print("Hello World!")
+```
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
